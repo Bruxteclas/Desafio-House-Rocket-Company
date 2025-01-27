@@ -89,15 +89,15 @@ Analisou-se o comportamento do mercado ao longo dos meses para identificar os me
 ### 🔑 **Casas Recomendadas para Compra**
 
 Casas no **CEP 98001** foram identificadas como as melhores oportunidades de compra, com preços abaixo da média regional. Características dessas casas incluem:
-- **Preço entre R$169.100 a R$216.000**.
+- **Preço entre $169.100 a $216.000**.
 - **3 ou 4 quartos** e **2 ou mais banheiros**.
 - **Boa condição e qualidade de construção (grau 7-8)**.
 
 ### 📅 **Melhor Mês para Venda**
-O **melhor mês para vender** foi identificado como **abril**, com o preço médio mais alto de **R$559.208,53**.
+O **melhor mês para vender** foi identificado como **abril**, com o preço médio mais alto de **$559.208,53**.
 
 ### 🛠 **Impacto das Reformas**
-A análise mostrou que **melhorias na qualidade (grau)** aumentam significativamente o valor das casas, mais do que as melhorias na **condição**. Em média, melhorar o grau de construção pode resultar em aumentos de até **R$3.000.000**.
+A análise mostrou que **melhorias na qualidade (grau)** aumentam significativamente o valor das casas, mais do que as melhorias na **condição**. Em média, melhorar o grau de construção pode resultar em aumentos de até **$3.000.000**.
 
 ---
 
