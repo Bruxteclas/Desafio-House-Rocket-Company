@@ -1,8 +1,13 @@
 # 🚀 **House Rocket - Análise Imobiliária com Dados**
 
+**Web Site:** [Analysis Results](https://desafio-house-rocket-company-ry72wjvngckmrxxrwsomsj.streamlit.app/)
+
 ## 📚 **Visão Geral**
 
 O House Rocket é um projeto baseado em análise de dados históricos de vendas de imóveis. O objetivo é usar essas informações para identificar as melhores oportunidades de compra de imóveis, determinar o momento ideal para vendê-los e analisar o impacto de reformas no valor das propriedades.
+
+![Captura de tela 2025-01-31 150918](https://github.com/user-attachments/assets/207c0997-91a7-4e93-8612-7afb3272e822)
+
 ## 💡 **Objetivo**
 
 O objetivo principal do projeto é utilizar os dados para tomar decisões estratégicas que maximizem o retorno sobre o investimento em imóveis. As questões abordadas incluem:
